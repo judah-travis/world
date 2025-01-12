@@ -1,0 +1,34 @@
+#post-form {
+    margin: 20px 0;
+}
+
+#post-form input, #post-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+#post-form button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#posts {
+    margin-top: 20px;
+}
+
+.post {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+
+.post-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.post-date {
+    font-size: 14px;
+    color: #777;
+}
